@@ -1,4 +1,5 @@
 # MNIST Digit Classifier (from scratch)
+*Created: 2019-02-08*
 
 A handwritten digit classifier built **entirely from scratch** in **MATLAB**.
 
